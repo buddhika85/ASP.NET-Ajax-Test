@@ -15,7 +15,7 @@
     <form id="form1" runat="server">
 
         <asp:ScriptManager ID="ScriptManager1" runat="server">
-            <%-- Script manager have all the scripts that are executed with the ajax --%>
+            <%-- Script manager have all the scripts that are executed with the ajax  --%>
             <Scripts>
                 <asp:ScriptReference Path="~/CustomScripts.js" />
             </Scripts>
